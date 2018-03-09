@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="hej" type="Images" />
+      <mapping pattern="background.jpeg" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
